@@ -1,0 +1,4 @@
+Dit is geimporteerde text uit de 
+map '/paarsblok/paarsmaptwee/'
+
+Je kan in die map deze tekst aanpassen.
