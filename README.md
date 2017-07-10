@@ -1,1 +1,2 @@
-# COMP1337
+Groetjes van Sytze
+COMP1337
